@@ -38,6 +38,6 @@ authRouter.post("/autorizado", (req, res)=>{
         return res.sendStatus(401)
     }
 })
-
+ 
 
 export default authRouter;

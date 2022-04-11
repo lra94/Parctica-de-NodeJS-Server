@@ -10,7 +10,7 @@ export const USER_BBDD = [
       "eyeColor": "brown",
       "name": "Jessie Booth",
       "user": "lewis94",
-      "passdword": "test1234",
+      "password": "test1234",
       "role": "user",
       "gender": "female",
       "company": "INFOTRIPS",
